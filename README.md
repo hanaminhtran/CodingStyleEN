@@ -1,4 +1,4 @@
-# clean-code-javascript
+# Coding Standard - Javascript - Anvy
 
 ## Table of Contents
 
