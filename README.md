@@ -1,4 +1,4 @@
-# Coding Standard - Javascript - Anvy
+# Javascript Coding Standard - Anvy
 
 ## Table of Contents
 
